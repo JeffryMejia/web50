@@ -1,0 +1,26 @@
+h1,h2 {
+    color:aqua;
+}
+
+
+li{
+    color:antiquewhite;
+    font-size: 34px;
+}
+
+input[type=text]{
+    color: #61677A;
+}
+
+#0{
+    border-color: aqua;
+}
+#2{
+    border-color: aqua;
+}
+#3{
+    border-color: aqua;
+}
+
+
+
