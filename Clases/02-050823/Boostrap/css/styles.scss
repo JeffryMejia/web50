@@ -1,0 +1,24 @@
+$color1:gray;
+$color2:blue;
+%message{
+    margin: auto;
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+    border: #000000 1 solid;
+    text-align: center;
+
+}
+
+.success{
+    @extend %message;
+    background-color: rgb(125, 153, 125);
+}
+.warning{
+    @extend %message;
+    background-color: sandybrown;
+}
+.error{
+    @extend %message;
+    background-color: salmon;
+}

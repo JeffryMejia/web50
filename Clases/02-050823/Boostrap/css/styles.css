@@ -1,0 +1,20 @@
+.error, .warning, .success {
+  margin: auto;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  border: #000000 1 solid;
+  text-align: center;
+}
+
+.success {
+  background-color: rgb(125, 153, 125);
+}
+
+.warning {
+  background-color: sandybrown;
+}
+
+.error {
+  background-color: salmon;
+}/*# sourceMappingURL=styles.css.map */

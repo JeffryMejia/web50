@@ -1,0 +1,15 @@
+$color1:gray;
+$color2:blue;
+body{
+    ul{
+
+        font-size: 24px;
+        color: $color1;
+        background-color: sandybrown;
+    }
+    ol{
+        font-size: 12px;
+        background-color: aqua;
+        color:$color2;
+    }
+}
