@@ -1,0 +1,11 @@
+.contariner{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contariner > div{
+    background: green;
+    font-size: large;
+    margin: auto;
+    
+}
